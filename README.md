@@ -1,4 +1,4 @@
-# JMeter Load Test
+# JMeter Load and Stress Test
 
 
 <h2>Project Summary:</h2> 
